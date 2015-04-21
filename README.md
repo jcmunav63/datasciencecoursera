@@ -1,2 +1,2 @@
-# datasciencecoursera-b
+# datasciencecoursera
 Data Science Toolbox repository
